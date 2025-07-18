@@ -2,8 +2,8 @@
   "weather": [
     {
       "city": "Nairobi",
-      "tempC": 24,
-      "tempF": 75,
+      "tempC": 28,
+      "tempF": 82,
       "description": "Sunny",
       "humidity": 50,
       "windSpeed": 10,
@@ -44,6 +44,15 @@
       "humidity": 55,
       "windSpeed": 14,
       "icon": "https://openweathermap.org/img/wn/02d.png"
+    },
+    {
+      "city": "New York",
+      "tempC": 25,
+      "tempF": 77,
+      "description": "Sunny",
+      "humidity": 55,
+      "windSpeed": 12,
+      "icon": "https://openweathermap.org/img/wn/01d.png"
     }
   ]
 }

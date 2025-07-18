@@ -1,0 +1,9 @@
+type: web
+buildCommand: npm install
+startCommand: npm start
+env:
+  - key: PORT
+    value: 3000
+  - key: NODE_ENV
+    value: production
+rootDirectory: .
